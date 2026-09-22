@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Suraksha",
+  "description": "AI-Powered Unified Cyber Threat Detection, Prevention & Response Platform (Smart India Hackathon 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
